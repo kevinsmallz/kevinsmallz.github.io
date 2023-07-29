@@ -96,7 +96,7 @@ body {
 }
 
 #wrapper #table1 td{
-        background: rgba(128, 128, 128, 0.897);
+        background: white;
         font-size: 15px;
         padding: 5px;
         border-radius: 10px;
